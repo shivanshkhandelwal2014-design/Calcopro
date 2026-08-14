@@ -1,0 +1,6 @@
+{
+  "name": "CalcPro",
+  "description": "A premium, fully logical calculator with advanced mathematical functions and a modern UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
